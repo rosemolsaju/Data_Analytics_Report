@@ -1,4 +1,4 @@
 # Data_Analytics_Report-
-This report analyzes the performance of a predictive model. With R-squared values of 0.444 (training) and 0.409 (testing), the model explains only a moderate portion of the variance. The observed residual patterns and clustering of predicted values indicate underfitting, highlighting the model’s inability to effectively capture data patterns.
+This report analyzes a predictive model using Power BI, Excel, and KNIME. The model's R-squared values of 0.444 (training) and 0.409 (testing) indicate moderate variance explanation. Residual patterns and clustering suggest underfitting, highlighting the need for further model improvement.
 
 Grade: A
